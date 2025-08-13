@@ -12,7 +12,7 @@ Alignment of an unaligned image with a base/reference image using feature detect
 ---
 
 ## Example Output
- ![EXAMPLE](exmpl.png)
+ ![EXAMPLE](exmpl.PNG)
 ---
 
 ## How It Works
